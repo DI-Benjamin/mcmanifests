@@ -4,16 +4,16 @@
     {
       "id": "crownspire",
       "name": "Crownspire",
-      "description": "Our story takes place in the land of Eos. At present, the world is divided between two warring states.",
+      "description": "A lightweight Fabric-based modpack with performance optimizations",
       "minecraftVersion": "1.21.4",
       "forgeVersion": null,
       "fabricVersion": "0.119.2+1.21.4",
-      "imageUrl": "",
+      "imageUrl": "https://example.com/modpacks/crownspire-fabric/image.jpg",
       "files": [
         {
-          "name": "fabric-api-0.119.2+1.21.4.jar",
-          "url": "https://github.com/DI-Benjamin/mcmanifests/raw/refs/heads/main/fabric-api-0.119.2+1.21.4.jar"
-        },
+          "name": "fabric-api-0.76.0+1.19.2.jar",
+          "url": "https://example.com/modpacks/crownspire-fabric/mods/fabric-api-0.76.0+1.19.2.jar"
+        }
       ]
     }
   ]
