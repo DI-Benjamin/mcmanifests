@@ -7,8 +7,7 @@
       "description": "Our story takes place in the land of Eos. At present, the world is divided between two warring states.",
       "version": "1.0.0",
       "minecraftVersion": "1.21.4",
-      "forgeVersion": null,
-      "launcherJar": "https://files.divsphere.net/api/public/dl/HNB9doMw/fabric-loader-0.16.10-1.21.4.jar",
+      "fabricVersion": "0.16.10",
       "icon": "https://example.com/path/to/icon.png",
       "files": [
         {
