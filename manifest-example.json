@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "minecraftVersion": "1.21.4",
       "forgeVersion": null,
-      "launcherJar": "https://example.com/path/to/modded-minecraft-launcher.jar",
+      "launcherJar": "https://files.divsphere.net/api/public/dl/HNB9doMw/fabric-loader-0.16.10-1.21.4.jar",
       "icon": "https://example.com/path/to/icon.png",
       "files": [
         {
