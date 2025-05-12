@@ -11,8 +11,8 @@
       "imageUrl": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2023/11/Greshin-Impact-4.2.jpg",
       "files": [
         {
-          "name": "fabric-api-0.76.0+1.19.2.jar",
-          "url": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.3/fabric-installer-1.0.3.jar"
+          "name": "fabric-api-0.119.2+1.21.4.jar",
+          "url": "https://github.com/DI-Benjamin/mcmanifests/raw/refs/heads/main/fabric-api-0.119.2+1.21.4.jar"
         },
       ]
     }
