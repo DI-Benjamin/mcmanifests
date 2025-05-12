@@ -1,0 +1,28 @@
+{
+  "launcherVersion": "1.0.0",
+  "modpacks": [
+    {
+      "id": "crownspire",
+      "name": "Crownspire",
+      "description": "A lightweight Fabric-based modpack with performance optimizations",
+      "minecraftVersion": "1.21.4",
+      "forgeVersion": null,
+      "fabricVersion": "0.119.2+1.21.4",
+      "imageUrl": "https://example.com/modpacks/crownspire-fabric/image.jpg",
+      "files": [
+        {
+          "name": "fabric-api-0.76.0+1.19.2.jar",
+          "url": "https://example.com/modpacks/crownspire-fabric/mods/fabric-api-0.76.0+1.19.2.jar"
+        },
+        {
+          "name": "lithium-fabric-mc1.19.2-0.11.1.jar",
+          "url": "https://example.com/modpacks/crownspire-fabric/mods/lithium-fabric-mc1.19.2-0.11.1.jar"
+        },
+        {
+          "name": "sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
+          "url": "https://example.com/modpacks/crownspire-fabric/mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
+        }
+      ]
+    }
+  ]
+} 
