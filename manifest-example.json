@@ -4,23 +4,15 @@
     {
       "id": "crownspire",
       "name": "Crownspire",
-      "description": "A lightweight Fabric-based modpack with performance optimizations",
+      "description": "Our story takes place in the land of Eos. At present, the world is divided between two warring states.",
       "minecraftVersion": "1.21.4",
       "forgeVersion": null,
       "fabricVersion": "0.119.2+1.21.4",
-      "imageUrl": "https://example.com/modpacks/crownspire-fabric/image.jpg",
+      "imageUrl": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2023/11/Greshin-Impact-4.2.jpg",
       "files": [
         {
-          "name": "fabric-api-0.76.0+1.19.2.jar",
-          "url": "https://example.com/modpacks/crownspire-fabric/mods/fabric-api-0.76.0+1.19.2.jar"
-        },
-        {
-          "name": "lithium-fabric-mc1.19.2-0.11.1.jar",
-          "url": "https://example.com/modpacks/crownspire-fabric/mods/lithium-fabric-mc1.19.2-0.11.1.jar"
-        },
-        {
-          "name": "sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
-          "url": "https://example.com/modpacks/crownspire-fabric/mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
+          "name": "fabric-api-0.119.2+1.21.4.jar",
+          "url": "https://github.com/DI-Benjamin/mcmanifests/raw/refs/heads/main/fabric-api-0.119.2+1.21.4.jar"
         }
       ]
     }
