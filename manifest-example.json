@@ -13,6 +13,14 @@
         {
           "name": "fabric-api-0.76.0+1.19.2.jar",
           "url": "https://example.com/modpacks/crownspire-fabric/mods/fabric-api-0.76.0+1.19.2.jar"
+        },
+        {
+          "name": "lithium-fabric-mc1.19.2-0.11.1.jar",
+          "url": "https://example.com/modpacks/crownspire-fabric/mods/lithium-fabric-mc1.19.2-0.11.1.jar"
+        },
+        {
+          "name": "sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
+          "url": "https://example.com/modpacks/crownspire-fabric/mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
         }
       ]
     }
