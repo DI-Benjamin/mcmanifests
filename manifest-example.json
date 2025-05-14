@@ -1,20 +1,17 @@
 {
-  "launcherVersion": "1.0.0",
+  "launcherVersion": "alpha-1.0.0",
   "modpacks": [
     {
-      "id": "crownspire",
-      "name": "Crownspire",
+      "id": "crownspire-default",
+      "name": "Crownspire Revengence",
       "description": "Our story takes place in the land of Eos. At present, the world is divided between two warring states.",
-      "version": "1.0.0",
       "minecraftVersion": "1.21.4",
       "fabricVersion": "0.16.10",
-      "icon": "https://example.com/path/to/icon.png",
-      "files": [
-        {
-          "name": "fabric-api-0.119.2+1.21.4.jar",
-          "url": "https://github.com/DI-Benjamin/mcmanifests/raw/refs/heads/main/fabric-api-0.119.2+1.21.4.jar"
-        }
-      ]
+      "imageUrl": "https://launcher.divsphere.net/images/crownspire-default.png",
+      "configZip": "https://launcher.divsphere.net/fancymenu.zip",
+      "modsZip": "https://launcher.divsphere.net/mods.zip",
+      "shadersZip": "https://launcher.divsphere.net/shaders.zip",
+      "recommended": true,
     }
   ]
 } 
