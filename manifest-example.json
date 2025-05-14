@@ -1,5 +1,5 @@
 {
-  "launcherVersion": "alpha-1.0.0",
+  "launcherVersion": "0.0.1",
   "modpacks": [
     {
       "id": "crownspire-default",
@@ -14,4 +14,4 @@
       "recommended": true
     }
   ]
-} 
+}
