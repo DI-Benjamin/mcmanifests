@@ -12,6 +12,7 @@
       "modsZip": "https://launcher.divsphere.net/mods.zip",
       "shadersZip": "https://launcher.divsphere.net/shaders.zip",
       "recommended": true,
+      "files": []
     }
   ]
 } 
